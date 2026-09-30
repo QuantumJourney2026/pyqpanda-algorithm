@@ -114,7 +114,7 @@ Before submitting a PR, ensure:
 
 #### PR Workflow
 
-1. Fork the alg repository ([repo page]([https://github.com/OriginQ/QPanda-2](https://github.com/OriginQ/pyqpanda-algorithm))) and clone it locally.
+1. Fork the alg repository ([repo page](https://github.com/OriginQ/pyqpanda-algorithm)) and clone it locally.
 
 2. Create a new branch from `develop`:  
    `git checkout develop -b new_branch_name`

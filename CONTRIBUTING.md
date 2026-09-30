@@ -138,7 +138,7 @@ fork 和 Pull Request的基本流程如下：
 1. Fork alg的仓库 [repo page](https://github.com/OriginQ/pyqpanda-algorithm)。并把你的克隆仓库下载到你的本机。
 2. 从`develop`分支创建一个新的分支：`git checkout develop -b new_branch_name`，其中`new_branch_name` 是你的新分支的名称。
 3. 把你的修改提交到你自己的分支。
-4. 如果你的克隆仓库与alg的官方仓库不同步，你需要先更新你的克隆仓库的`develop`分支，然后再把`develop`分支合并到你自己的分支（在合并的过程中，你可能要修改一些合并冲突）:
+4. 如果你的克隆仓库与alg的官方仓库不同步，你需要先更新你的克隆仓库的develop分支，然后再把`develop`分支合并到你自己的分支（在合并的过程中，你可能要修改一些合并冲突）:
 
 ```
 # Update your local develop. 
@@ -188,7 +188,5 @@ git merge develop
 <p align="center">
   <img src="my-folder/本源量子云小助手.jpg" alt="本源量子官方小助手" width="30%">
 </p>
-
-
 
 
